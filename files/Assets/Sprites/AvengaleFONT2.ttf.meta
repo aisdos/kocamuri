@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd46ba6ba22c7f745b2f11fc6abc1990
+timeCreated: 1486128118
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AvengaleFONT2
+  fontNames:
+  - AvengaleFONT2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
